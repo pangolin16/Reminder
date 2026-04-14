@@ -2,6 +2,7 @@
   "name": "Birthday Reminders",
   "short_name": "Birthdays",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#1a0a2e",
   "theme_color": "#1a0a2e",
